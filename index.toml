@@ -16,6 +16,11 @@ hash = "2ccce9c28059ea90a5457771de06a69b0a2d1f06d48f8add48a38f1a2307da3c"
 metafile = true
 
 [[files]]
+file = "mods/fancy-door-animations.pw.toml"
+hash = "51046dec414a8304ed6c269d48f818e735d27ee3563766daa89fe3f785f41fca"
+metafile = true
+
+[[files]]
 file = "mods/hold-my-items.pw.toml"
 hash = "929cf6aa709b752593ea1a434038338bf22594c8027844ad30d17e7366e18245"
 metafile = true
