@@ -1,0 +1,13 @@
+name = "SmoothMount"
+filename = "SmoothMount-0.1.2.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/ug2E4xy4/versions/aDUSHDSa/SmoothMount-0.1.2.jar"
+hash-format = "sha512"
+hash = "75060acbeddb1014c47f5c3e7b9999852e749fadbae88d8db6238309750a88694aa2a2a3569ca73cbdebe862e889a21ee5f8759ab0a378e7a6d885a7b6100483"
+
+[update]
+[update.modrinth]
+mod-id = "ug2E4xy4"
+version = "aDUSHDSa"

@@ -31,8 +31,23 @@ hash = "5127c58dc92fe8860d29ad2d05e7c2ea7b973390f41aec73dd2017953f2d1a3e"
 metafile = true
 
 [[files]]
+file = "mods/mining_and_placing_animations.pw.toml"
+hash = "1f63d85735c52b01ec564ca4fdae0e23021a95af60e6f0e770e80e5b4be01121"
+metafile = true
+
+[[files]]
+file = "mods/smoothmount.pw.toml"
+hash = "131b0a926dc3d4c6a6d845abeebf1681519447a91a8b501d21622d8b4c4fa2b5"
+metafile = true
+
+[[files]]
 file = "mods/sodium.pw.toml"
 hash = "6fa3b94539d3b97477b160d3b552eae3945445cdc0dd243898d4316977e2ad43"
+metafile = true
+
+[[files]]
+file = "mods/tiny-pickup-animation.pw.toml"
+hash = "b9cd89b9d742100a3a594bb766a661c4468c6fcef2eade2a9464a27a4a7a7368"
 metafile = true
 
 [[files]]
