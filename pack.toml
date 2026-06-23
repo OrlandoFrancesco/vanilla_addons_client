@@ -1,0 +1,13 @@
+name = "Vanilla Addons"
+author = "kekko99k0o"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "5320af4194aa08c8ce96905c167dd8a9bfb48224f5ce4fbc1a2a971555dd3d6a"
+
+[versions]
+fabric = "0.19.3"
+minecraft = "1.21.11"

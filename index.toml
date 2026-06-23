@@ -1,0 +1,36 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/entity-model-features.pw.toml"
+hash = "f548d2cbcde539f2ee6936dc1d24896c440a26196bbb5df9e3f3d5e4b3940901"
+metafile = true
+
+[[files]]
+file = "mods/entitytexturefeatures.pw.toml"
+hash = "b6beeef9bfbd950110e02332b11423d3754ea0ed2ac563cde20d4c7c1851be86"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "2ccce9c28059ea90a5457771de06a69b0a2d1f06d48f8add48a38f1a2307da3c"
+metafile = true
+
+[[files]]
+file = "mods/hold-my-items.pw.toml"
+hash = "929cf6aa709b752593ea1a434038338bf22594c8027844ad30d17e7366e18245"
+metafile = true
+
+[[files]]
+file = "mods/iris.pw.toml"
+hash = "5127c58dc92fe8860d29ad2d05e7c2ea7b973390f41aec73dd2017953f2d1a3e"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "6fa3b94539d3b97477b160d3b552eae3945445cdc0dd243898d4316977e2ad43"
+metafile = true
+
+[[files]]
+file = "shaderpacks/complementary-reimagined.pw.toml"
+hash = "ea258ed5bf495d9017eeadc3cbf9bd67b1e672d843826bc077135548b5bc699e"
+metafile = true
