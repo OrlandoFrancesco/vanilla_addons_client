@@ -56,8 +56,12 @@ hash = "b9cd89b9d742100a3a594bb766a661c4468c6fcef2eade2a9464a27a4a7a7368"
 metafile = true
 
 [[files]]
+file = "packwiz.json"
+hash = "b81044e07c3f1214ebf209aaf462e5c4db017f948e0cfdcb8a4f9933ee5f345c"
+
+[[files]]
 file = "resourcepacks/better-leaves.pw.toml"
-hash = "610e5e08a034d7fdda17d17f37853c1abf19f94425e0a831ced52fccb6ccb063"
+hash = "2678bfa6959ac450a8dafec397dd0939b3b9991e7ed62c1b2ed5ffce1a23e7df"
 metafile = true
 
 [[files]]
