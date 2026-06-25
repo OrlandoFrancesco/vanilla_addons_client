@@ -1,16 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "mods/3dskinlayers.pw.toml"
-hash = "18b6fb7674e9f1beac9c29feb5f043699476f3ee0453f176cf689f3f39710144"
-metafile = true
-
-[[files]]
-file = "mods/continuity.pw.toml"
-hash = "d53b229a5588d33a8dac8682cba4371b22b2cbe2541c7129506cfbd44daaf6f8"
-metafile = true
-
-[[files]]
 file = "mods/entity-model-features.pw.toml"
 hash = "f548d2cbcde539f2ee6936dc1d24896c440a26196bbb5df9e3f3d5e4b3940901"
 metafile = true
@@ -53,11 +43,6 @@ metafile = true
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "6fa3b94539d3b97477b160d3b552eae3945445cdc0dd243898d4316977e2ad43"
-metafile = true
-
-[[files]]
-file = "mods/sound-physics-remastered.pw.toml"
-hash = "b01870e848aee7e1a2e19c6530bdd4c479b21a2f6f67134da75210844252d48f"
 metafile = true
 
 [[files]]
