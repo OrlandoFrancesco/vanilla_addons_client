@@ -2,9 +2,6 @@ name = "Motschen's Better Leaves"
 filename = "Better-Leaves-9.5.zip"
 side = "client"
 
-[merge.sequence]
-sequence = 1
-
 [download]
 url = "https://cdn.modrinth.com/data/uvpymuxq/versions/XWtayRKd/Better-Leaves-9.5.zip"
 hash-format = "sha512"
