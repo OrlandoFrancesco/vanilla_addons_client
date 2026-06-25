@@ -46,6 +46,11 @@ hash = "6fa3b94539d3b97477b160d3b552eae3945445cdc0dd243898d4316977e2ad43"
 metafile = true
 
 [[files]]
+file = "mods/sound-physics-remastered.pw.toml"
+hash = "b01870e848aee7e1a2e19c6530bdd4c479b21a2f6f67134da75210844252d48f"
+metafile = true
+
+[[files]]
 file = "mods/tiny-pickup-animation.pw.toml"
 hash = "b9cd89b9d742100a3a594bb766a661c4468c6fcef2eade2a9464a27a4a7a7368"
 metafile = true
