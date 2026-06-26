@@ -109,6 +109,11 @@ hash = "f2f79c8e1e270038d46817cd8b32df98f15b822ba2476da924f1321a65035d41"
 metafile = true
 
 [[files]]
+file = "resourcepacks/rain-revamp.pw.toml"
+hash = "e6befc53af0c97249beb143e47b4f01676d43936d6bce8e47591483e072bc522"
+metafile = true
+
+[[files]]
 file = "resourcepacks/shrimps-immersive-interfaces.pw.toml"
 hash = "a7b531b844f689209d2043d436b20995f0f645fc6b08010a7e1b5944c6c092bb"
 metafile = true
