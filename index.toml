@@ -69,6 +69,11 @@ hash = "ecef1b0a746d95a37732b62387b5dd68c6021cfdff4a39f70d5974bc88d833d3"
 metafile = true
 
 [[files]]
+file = "resourcepacks/als-zombies-revamped-x-fresh-animations.pw.toml"
+hash = "61c9cae79a6dba9979640207f6eb792289c8968d2304692ec69df8d9f6a3c123"
+metafile = true
+
+[[files]]
 file = "resourcepacks/alternative-rain-sounds.pw.toml"
 hash = "96a03d36b88645eddd62711876573b226ac750abdda61a7ddbab9eefde213456"
 metafile = true
