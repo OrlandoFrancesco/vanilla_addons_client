@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "entity_model_features.json"
+hash = "c95e9374a484e08b965f3dec7375c7a4991a0f4f27571f8f397ba0d6d7213776"
+
+[[files]]
 file = "mods/continuity.pw.toml"
 hash = "d53b229a5588d33a8dac8682cba4371b22b2cbe2541c7129506cfbd44daaf6f8"
 metafile = true
@@ -77,7 +81,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "1d1a9cd32d95c8fa075a0d58df58bd9567dec90f5aba007145f7d23dfc1aea1a"
+hash = "16fa9dff061e79765173c4213d3909ae06ae2eef0b06c9f8b4d3104e0d41c8af"
 
 [[files]]
 file = "packwiz.json"
