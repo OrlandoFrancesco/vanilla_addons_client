@@ -64,8 +64,63 @@ file = "packwiz.json"
 hash = "b81044e07c3f1214ebf209aaf462e5c4db017f948e0cfdcb8a4f9933ee5f345c"
 
 [[files]]
-file = "resourcepacks/better-leaves.pw.toml"
-hash = "7742ad2ccfa2aa89a3471d76fc6a1aaa5c58cd4f09cc10f534f56990a6d50603"
+file = "resourcepacks/als-creepers-revamped.pw.toml"
+hash = "ecef1b0a746d95a37732b62387b5dd68c6021cfdff4a39f70d5974bc88d833d3"
+metafile = true
+
+[[files]]
+file = "resourcepacks/alternative-rain-sounds.pw.toml"
+hash = "96a03d36b88645eddd62711876573b226ac750abdda61a7ddbab9eefde213456"
+metafile = true
+
+[[files]]
+file = "resourcepacks/better-sugar-cane.pw.toml"
+hash = "696d20559dc1ded1df82982efb22da47fb07797494ea4f8106a849dcda5af0ee"
+metafile = true
+
+[[files]]
+file = "resourcepacks/cubic-sun-moon.pw.toml"
+hash = "6d198fcead3ae516d33d9011f3ecf9717a72b963aadea7a6b3ad7f0c7cada070"
+metafile = true
+
+[[files]]
+file = "resourcepacks/fa-player-extension.pw.toml"
+hash = "2e1a6866e4366cebe200dcf71ab52923b7653f76dc48741b93411ee3bf77372a"
+metafile = true
+
+[[files]]
+file = "resourcepacks/fresh-animations-emissive.pw.toml"
+hash = "de81d004ae049a08aab49d57db3ed5f5b659bd28b070bce0be4c520527f51b4b"
+metafile = true
+
+[[files]]
+file = "resourcepacks/fresh-animations.pw.toml"
+hash = "6a1556a0e4fcb411b33efafc3382b4abd9a6e671f140dc0d42e9aad2808e24f3"
+metafile = true
+
+[[files]]
+file = "resourcepacks/glowing-glints.pw.toml"
+hash = "f2f79c8e1e270038d46817cd8b32df98f15b822ba2476da924f1321a65035d41"
+metafile = true
+
+[[files]]
+file = "resourcepacks/shrimps-immersive-interfaces.pw.toml"
+hash = "a7b531b844f689209d2043d436b20995f0f645fc6b08010a7e1b5944c6c092bb"
+metafile = true
+
+[[files]]
+file = "resourcepacks/theones-eating-animation-pack.pw.toml"
+hash = "5eb0b934c1d51c723ee22536d0eb72f4f4094c8cd0988224473fb3b6d841e6e8"
+metafile = true
+
+[[files]]
+file = "resourcepacks/universal-bushy-leaves.pw.toml"
+hash = "30edef17ac2615dbbad050f5116b9e6f93d6adf1d06c2d10bfa66ba7aaaeeae9"
+metafile = true
+
+[[files]]
+file = "resourcepacks/vanilla-better-lily-pads.pw.toml"
+hash = "c8ba2cf3d0b07e688f5f20e0a648f70bba0d82c9526fdfc70ee157300dced5b2"
 metafile = true
 
 [[files]]
