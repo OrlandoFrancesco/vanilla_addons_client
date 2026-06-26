@@ -1,6 +1,11 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/connected-glass.pw.toml"
+hash = "3ad93c3c1967e7c07135a37a25f84d493c5aac59ad2536e7eee65d4eecaa4cdb"
+metafile = true
+
+[[files]]
 file = "mods/entity-model-features.pw.toml"
 hash = "f548d2cbcde539f2ee6936dc1d24896c440a26196bbb5df9e3f3d5e4b3940901"
 metafile = true
@@ -21,6 +26,11 @@ hash = "51046dec414a8304ed6c269d48f818e735d27ee3563766daa89fe3f785f41fca"
 metafile = true
 
 [[files]]
+file = "mods/fusion-connected-textures.pw.toml"
+hash = "a594dd4b7e0f62ed5a55b3fcc73047071c195cd58fefaef9e561155d56c1e2f3"
+metafile = true
+
+[[files]]
 file = "mods/hold-my-items.pw.toml"
 hash = "929cf6aa709b752593ea1a434038338bf22594c8027844ad30d17e7366e18245"
 metafile = true
@@ -36,6 +46,11 @@ hash = "1f63d85735c52b01ec564ca4fdae0e23021a95af60e6f0e770e80e5b4be01121"
 metafile = true
 
 [[files]]
+file = "mods/presence-footsteps.pw.toml"
+hash = "fe4bed69e7d21789d176b8580b3ef031b579a051ca76a5f56898e6b38fa082db"
+metafile = true
+
+[[files]]
 file = "mods/smoothmount.pw.toml"
 hash = "131b0a926dc3d4c6a6d845abeebf1681519447a91a8b501d21622d8b4c4fa2b5"
 metafile = true
@@ -48,6 +63,11 @@ metafile = true
 [[files]]
 file = "mods/sound-physics-remastered.pw.toml"
 hash = "b01870e848aee7e1a2e19c6530bdd4c479b21a2f6f67134da75210844252d48f"
+metafile = true
+
+[[files]]
+file = "mods/supermartijn642s-core-lib.pw.toml"
+hash = "caf703dcec7cac1e67ad2f1d2dcef572c1e701164994d3e868a9dea33814c1df"
 metafile = true
 
 [[files]]
