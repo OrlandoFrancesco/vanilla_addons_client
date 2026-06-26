@@ -1,8 +1,8 @@
 hash-format = "sha256"
 
 [[files]]
-file = "mods/connected-glass.pw.toml"
-hash = "3ad93c3c1967e7c07135a37a25f84d493c5aac59ad2536e7eee65d4eecaa4cdb"
+file = "mods/continuity.pw.toml"
+hash = "d53b229a5588d33a8dac8682cba4371b22b2cbe2541c7129506cfbd44daaf6f8"
 metafile = true
 
 [[files]]
@@ -101,6 +101,11 @@ metafile = true
 [[files]]
 file = "resourcepacks/better-sugar-cane.pw.toml"
 hash = "696d20559dc1ded1df82982efb22da47fb07797494ea4f8106a849dcda5af0ee"
+metafile = true
+
+[[files]]
+file = "resourcepacks/clean-connected-glass.pw.toml"
+hash = "50a5cd7d28cc5d33c4475414a362cc56ee8956bc751a90473d92077ada972423"
 metafile = true
 
 [[files]]
