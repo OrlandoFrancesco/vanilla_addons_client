@@ -1,0 +1,1 @@
+resourcePacks:["vanilla","mining_and_placing_animations:default_animations","holdmyitems:pack_test","file/Better-Leaves-9.5.zip"]

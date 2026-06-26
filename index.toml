@@ -56,6 +56,10 @@ hash = "b9cd89b9d742100a3a594bb766a661c4468c6fcef2eade2a9464a27a4a7a7368"
 metafile = true
 
 [[files]]
+file = "options.txt"
+hash = "1d1a9cd32d95c8fa075a0d58df58bd9567dec90f5aba007145f7d23dfc1aea1a"
+
+[[files]]
 file = "packwiz.json"
 hash = "b81044e07c3f1214ebf209aaf462e5c4db017f948e0cfdcb8a4f9933ee5f345c"
 
