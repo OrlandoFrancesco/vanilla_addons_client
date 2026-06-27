@@ -93,6 +93,11 @@ hash = "96a03d36b88645eddd62711876573b226ac750abdda61a7ddbab9eefde213456"
 metafile = true
 
 [[files]]
+file = "resourcepacks/better-connected-glass.pw.toml"
+hash = "10d74160e3d1538a06370321485e251312f94dd2d5adef84557cea349a93f376"
+metafile = true
+
+[[files]]
 file = "resourcepacks/better-sugar-cane.pw.toml"
 hash = "696d20559dc1ded1df82982efb22da47fb07797494ea4f8106a849dcda5af0ee"
 metafile = true
@@ -145,11 +150,6 @@ metafile = true
 [[files]]
 file = "resourcepacks/vanilla-better-lily-pads.pw.toml"
 hash = "c8ba2cf3d0b07e688f5f20e0a648f70bba0d82c9526fdfc70ee157300dced5b2"
-metafile = true
-
-[[files]]
-file = "resourcepacks/vanilla-connected-glass.pw.toml"
-hash = "aa1d3ffb4640feba6f84906b26a0e5c55e432dfcc44a3a64536f0b82b209c488"
 metafile = true
 
 [[files]]
