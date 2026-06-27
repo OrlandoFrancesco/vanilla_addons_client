@@ -5,6 +5,11 @@ file = "entity_model_features.json"
 hash = "c95e9374a484e08b965f3dec7375c7a4991a0f4f27571f8f397ba0d6d7213776"
 
 [[files]]
+file = "mods/continuity.pw.toml"
+hash = "d53b229a5588d33a8dac8682cba4371b22b2cbe2541c7129506cfbd44daaf6f8"
+metafile = true
+
+[[files]]
 file = "mods/distanthorizons.pw.toml"
 hash = "df7e02451f290b47c5b3fe3553caac0179cad5536defb6c705df5e97970f6caf"
 metafile = true
@@ -90,11 +95,6 @@ metafile = true
 [[files]]
 file = "resourcepacks/alternative-rain-sounds.pw.toml"
 hash = "96a03d36b88645eddd62711876573b226ac750abdda61a7ddbab9eefde213456"
-metafile = true
-
-[[files]]
-file = "resourcepacks/better-connected-glass.pw.toml"
-hash = "10d74160e3d1538a06370321485e251312f94dd2d5adef84557cea349a93f376"
 metafile = true
 
 [[files]]
