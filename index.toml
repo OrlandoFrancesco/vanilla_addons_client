@@ -91,7 +91,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "16fa9dff061e79765173c4213d3909ae06ae2eef0b06c9f8b4d3104e0d41c8af"
+hash = "0df4482c4c8edc39fb7cf332d53e0b04b5cc3d8f5384f6d94bd093f8a0af2295"
 
 [[files]]
 file = "packwiz.json"
