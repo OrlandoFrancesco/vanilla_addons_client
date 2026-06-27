@@ -5,11 +5,6 @@ file = "entity_model_features.json"
 hash = "c95e9374a484e08b965f3dec7375c7a4991a0f4f27571f8f397ba0d6d7213776"
 
 [[files]]
-file = "mods/continuity.pw.toml"
-hash = "d53b229a5588d33a8dac8682cba4371b22b2cbe2541c7129506cfbd44daaf6f8"
-metafile = true
-
-[[files]]
 file = "mods/distanthorizons.pw.toml"
 hash = "df7e02451f290b47c5b3fe3553caac0179cad5536defb6c705df5e97970f6caf"
 metafile = true
@@ -32,11 +27,6 @@ metafile = true
 [[files]]
 file = "mods/fancy-door-animations.pw.toml"
 hash = "51046dec414a8304ed6c269d48f818e735d27ee3563766daa89fe3f785f41fca"
-metafile = true
-
-[[files]]
-file = "mods/fusion-connected-textures.pw.toml"
-hash = "a594dd4b7e0f62ed5a55b3fcc73047071c195cd58fefaef9e561155d56c1e2f3"
 metafile = true
 
 [[files]]
@@ -75,11 +65,6 @@ hash = "b01870e848aee7e1a2e19c6530bdd4c479b21a2f6f67134da75210844252d48f"
 metafile = true
 
 [[files]]
-file = "mods/supermartijn642s-core-lib.pw.toml"
-hash = "caf703dcec7cac1e67ad2f1d2dcef572c1e701164994d3e868a9dea33814c1df"
-metafile = true
-
-[[files]]
 file = "mods/tiny-pickup-animation.pw.toml"
 hash = "b9cd89b9d742100a3a594bb766a661c4468c6fcef2eade2a9464a27a4a7a7368"
 metafile = true
@@ -110,11 +95,6 @@ metafile = true
 [[files]]
 file = "resourcepacks/better-sugar-cane.pw.toml"
 hash = "696d20559dc1ded1df82982efb22da47fb07797494ea4f8106a849dcda5af0ee"
-metafile = true
-
-[[files]]
-file = "resourcepacks/clean-connected-glass.pw.toml"
-hash = "50a5cd7d28cc5d33c4475414a362cc56ee8956bc751a90473d92077ada972423"
 metafile = true
 
 [[files]]
