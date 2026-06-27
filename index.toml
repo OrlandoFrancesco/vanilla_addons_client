@@ -148,6 +148,11 @@ hash = "c8ba2cf3d0b07e688f5f20e0a648f70bba0d82c9526fdfc70ee157300dced5b2"
 metafile = true
 
 [[files]]
+file = "resourcepacks/vanilla-connected-glass.pw.toml"
+hash = "aa1d3ffb4640feba6f84906b26a0e5c55e432dfcc44a3a64536f0b82b209c488"
+metafile = true
+
+[[files]]
 file = "shaderpacks/complementary-reimagined.pw.toml"
 hash = "ea258ed5bf495d9017eeadc3cbf9bd67b1e672d843826bc077135548b5bc699e"
 metafile = true
