@@ -50,6 +50,11 @@ hash = "1f63d85735c52b01ec564ca4fdae0e23021a95af60e6f0e770e80e5b4be01121"
 metafile = true
 
 [[files]]
+file = "mods/mru.pw.toml"
+hash = "e1b57bd130c090448759300ac6b610bc13de296aeb85d80b7f363e981be5f44b"
+metafile = true
+
+[[files]]
 file = "mods/presence-footsteps.pw.toml"
 hash = "fe4bed69e7d21789d176b8580b3ef031b579a051ca76a5f56898e6b38fa082db"
 metafile = true
@@ -70,8 +75,18 @@ hash = "b01870e848aee7e1a2e19c6530bdd4c479b21a2f6f67134da75210844252d48f"
 metafile = true
 
 [[files]]
+file = "mods/sound.pw.toml"
+hash = "5f963c93bf4858687056c332831fa96fa101020a565d8000eed675ae167d98fc"
+metafile = true
+
+[[files]]
 file = "mods/tiny-pickup-animation.pw.toml"
 hash = "b9cd89b9d742100a3a594bb766a661c4468c6fcef2eade2a9464a27a4a7a7368"
+metafile = true
+
+[[files]]
+file = "mods/yacl.pw.toml"
+hash = "1113d43c39a9866252a83ee50d16aa3ce6fcf749acd84d58b05ca09eba4d187b"
 metafile = true
 
 [[files]]
