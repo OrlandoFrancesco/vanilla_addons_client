@@ -10,11 +10,6 @@ hash = "d53b229a5588d33a8dac8682cba4371b22b2cbe2541c7129506cfbd44daaf6f8"
 metafile = true
 
 [[files]]
-file = "mods/distanthorizons.pw.toml"
-hash = "df7e02451f290b47c5b3fe3553caac0179cad5536defb6c705df5e97970f6caf"
-metafile = true
-
-[[files]]
 file = "mods/entity-model-features.pw.toml"
 hash = "f548d2cbcde539f2ee6936dc1d24896c440a26196bbb5df9e3f3d5e4b3940901"
 metafile = true
