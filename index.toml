@@ -1,7 +1,7 @@
 hash-format = "sha256"
 
 [[files]]
-file = "entity_model_features.json"
+file = "config/entity_model_features.json"
 hash = "c95e9374a484e08b965f3dec7375c7a4991a0f4f27571f8f397ba0d6d7213776"
 
 [[files]]
