@@ -40,8 +40,18 @@ hash = "929cf6aa709b752593ea1a434038338bf22594c8027844ad30d17e7366e18245"
 metafile = true
 
 [[files]]
+file = "mods/immersive-storms.pw.toml"
+hash = "8b813cff06f4eb1550abe5ca52f39235b0ca973f9f98e9f4ebac3c6cf21e560f"
+metafile = true
+
+[[files]]
 file = "mods/iris.pw.toml"
 hash = "5127c58dc92fe8860d29ad2d05e7c2ea7b973390f41aec73dd2017953f2d1a3e"
+metafile = true
+
+[[files]]
+file = "mods/make_bubbles_pop.pw.toml"
+hash = "113af68f0f6a6490c66b13bd0f2641ecacbb5320b930cc0bc5574dcc8f070474"
 metafile = true
 
 [[files]]
@@ -82,6 +92,11 @@ metafile = true
 [[files]]
 file = "mods/tiny-pickup-animation.pw.toml"
 hash = "b9cd89b9d742100a3a594bb766a661c4468c6fcef2eade2a9464a27a4a7a7368"
+metafile = true
+
+[[files]]
+file = "mods/windy.pw.toml"
+hash = "9b0833ebb9673d80f2302002fbe84b7335cffed6afa49e9d3ce175701fdfbbf0"
 metafile = true
 
 [[files]]
