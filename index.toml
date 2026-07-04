@@ -1,7 +1,7 @@
 hash-format = "sha256"
 
 [[files]]
-file = "entity_model_features.json"
+file = "config/entity_model_features.json"
 hash = "c95e9374a484e08b965f3dec7375c7a4991a0f4f27571f8f397ba0d6d7213776"
 
 [[files]]
@@ -12,11 +12,6 @@ metafile = true
 [[files]]
 file = "mods/dark-loading-screen.pw.toml"
 hash = "716b671d0b15ea17c788c571620eac83207bb2b6e8dbe0d33319838478f21efc"
-metafile = true
-
-[[files]]
-file = "mods/distanthorizons.pw.toml"
-hash = "df7e02451f290b47c5b3fe3553caac0179cad5536defb6c705df5e97970f6caf"
 metafile = true
 
 [[files]]
@@ -96,7 +91,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "16fa9dff061e79765173c4213d3909ae06ae2eef0b06c9f8b4d3104e0d41c8af"
+hash = "0df4482c4c8edc39fb7cf332d53e0b04b5cc3d8f5384f6d94bd093f8a0af2295"
 
 [[files]]
 file = "packwiz.json"
