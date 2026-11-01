@@ -1,6 +1,25 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/entity_model_features.json"
+hash = "c95e9374a484e08b965f3dec7375c7a4991a0f4f27571f8f397ba0d6d7213776"
+
+[[files]]
+file = "mods/continuity.pw.toml"
+hash = "d53b229a5588d33a8dac8682cba4371b22b2cbe2541c7129506cfbd44daaf6f8"
+metafile = true
+
+[[files]]
+file = "mods/coolrain.pw.toml"
+hash = "c51f46497f367ee55ad75abe400e397f1a7d8fa167ae93f13cd397d7442e2d05"
+metafile = true
+
+[[files]]
+file = "mods/dark-loading-screen.pw.toml"
+hash = "716b671d0b15ea17c788c571620eac83207bb2b6e8dbe0d33319838478f21efc"
+metafile = true
+
+[[files]]
 file = "mods/entity-model-features.pw.toml"
 hash = "f548d2cbcde539f2ee6936dc1d24896c440a26196bbb5df9e3f3d5e4b3940901"
 metafile = true
@@ -26,13 +45,33 @@ hash = "929cf6aa709b752593ea1a434038338bf22594c8027844ad30d17e7366e18245"
 metafile = true
 
 [[files]]
+file = "mods/immersive-storms.pw.toml"
+hash = "8b813cff06f4eb1550abe5ca52f39235b0ca973f9f98e9f4ebac3c6cf21e560f"
+metafile = true
+
+[[files]]
 file = "mods/iris.pw.toml"
 hash = "5127c58dc92fe8860d29ad2d05e7c2ea7b973390f41aec73dd2017953f2d1a3e"
 metafile = true
 
 [[files]]
+file = "mods/make_bubbles_pop.pw.toml"
+hash = "113af68f0f6a6490c66b13bd0f2641ecacbb5320b930cc0bc5574dcc8f070474"
+metafile = true
+
+[[files]]
 file = "mods/mining_and_placing_animations.pw.toml"
 hash = "1f63d85735c52b01ec564ca4fdae0e23021a95af60e6f0e770e80e5b4be01121"
+metafile = true
+
+[[files]]
+file = "mods/mru.pw.toml"
+hash = "e1b57bd130c090448759300ac6b610bc13de296aeb85d80b7f363e981be5f44b"
+metafile = true
+
+[[files]]
+file = "mods/presence-footsteps.pw.toml"
+hash = "fe4bed69e7d21789d176b8580b3ef031b579a051ca76a5f56898e6b38fa082db"
 metafile = true
 
 [[files]]
@@ -51,8 +90,106 @@ hash = "b01870e848aee7e1a2e19c6530bdd4c479b21a2f6f67134da75210844252d48f"
 metafile = true
 
 [[files]]
+file = "mods/sound.pw.toml"
+hash = "5f963c93bf4858687056c332831fa96fa101020a565d8000eed675ae167d98fc"
+metafile = true
+
+[[files]]
 file = "mods/tiny-pickup-animation.pw.toml"
 hash = "b9cd89b9d742100a3a594bb766a661c4468c6fcef2eade2a9464a27a4a7a7368"
+metafile = true
+
+[[files]]
+file = "mods/wavey-capes.pw.toml"
+hash = "ea97289dad27c42d04c8ac3e37f201762bb54e375399d04b24a8afdf315e8dd7"
+metafile = true
+
+[[files]]
+file = "mods/windy.pw.toml"
+hash = "9b0833ebb9673d80f2302002fbe84b7335cffed6afa49e9d3ce175701fdfbbf0"
+metafile = true
+
+[[files]]
+file = "mods/yacl.pw.toml"
+hash = "1113d43c39a9866252a83ee50d16aa3ce6fcf749acd84d58b05ca09eba4d187b"
+metafile = true
+
+[[files]]
+file = "options.txt"
+hash = "0df4482c4c8edc39fb7cf332d53e0b04b5cc3d8f5384f6d94bd093f8a0af2295"
+
+[[files]]
+file = "packwiz.json"
+hash = "b81044e07c3f1214ebf209aaf462e5c4db017f948e0cfdcb8a4f9933ee5f345c"
+
+[[files]]
+file = "resourcepacks/als-creepers-revamped.pw.toml"
+hash = "ecef1b0a746d95a37732b62387b5dd68c6021cfdff4a39f70d5974bc88d833d3"
+metafile = true
+
+[[files]]
+file = "resourcepacks/als-zombies-revamped-x-fresh-animations.pw.toml"
+hash = "61c9cae79a6dba9979640207f6eb792289c8968d2304692ec69df8d9f6a3c123"
+metafile = true
+
+[[files]]
+file = "resourcepacks/alternative-rain-sounds.pw.toml"
+hash = "96a03d36b88645eddd62711876573b226ac750abdda61a7ddbab9eefde213456"
+metafile = true
+
+[[files]]
+file = "resourcepacks/better-sugar-cane.pw.toml"
+hash = "696d20559dc1ded1df82982efb22da47fb07797494ea4f8106a849dcda5af0ee"
+metafile = true
+
+[[files]]
+file = "resourcepacks/cubic-sun-moon.pw.toml"
+hash = "6d198fcead3ae516d33d9011f3ecf9717a72b963aadea7a6b3ad7f0c7cada070"
+metafile = true
+
+[[files]]
+file = "resourcepacks/fa-player-extension.pw.toml"
+hash = "2e1a6866e4366cebe200dcf71ab52923b7653f76dc48741b93411ee3bf77372a"
+metafile = true
+
+[[files]]
+file = "resourcepacks/fresh-animations-emissive.pw.toml"
+hash = "de81d004ae049a08aab49d57db3ed5f5b659bd28b070bce0be4c520527f51b4b"
+metafile = true
+
+[[files]]
+file = "resourcepacks/fresh-animations.pw.toml"
+hash = "6a1556a0e4fcb411b33efafc3382b4abd9a6e671f140dc0d42e9aad2808e24f3"
+metafile = true
+
+[[files]]
+file = "resourcepacks/glowing-glints.pw.toml"
+hash = "f2f79c8e1e270038d46817cd8b32df98f15b822ba2476da924f1321a65035d41"
+metafile = true
+
+[[files]]
+file = "resourcepacks/rain-revamp.pw.toml"
+hash = "e6befc53af0c97249beb143e47b4f01676d43936d6bce8e47591483e072bc522"
+metafile = true
+
+[[files]]
+file = "resourcepacks/shrimps-immersive-interfaces.pw.toml"
+hash = "a7b531b844f689209d2043d436b20995f0f645fc6b08010a7e1b5944c6c092bb"
+metafile = true
+
+[[files]]
+file = "resourcepacks/theones-eating-animation-pack.pw.toml"
+hash = "5eb0b934c1d51c723ee22536d0eb72f4f4094c8cd0988224473fb3b6d841e6e8"
+metafile = true
+
+[[files]]
+file = "resourcepacks/universal-bushy-leaves.pw.toml"
+hash = "30edef17ac2615dbbad050f5116b9e6f93d6adf1d06c2d10bfa66ba7aaaeeae9"
+metafile = true
+
+[[files]]
+file = "resourcepacks/vanilla-better-lily-pads.pw.toml"
+hash = "c8ba2cf3d0b07e688f5f20e0a648f70bba0d82c9526fdfc70ee157300dced5b2"
 metafile = true
 
 [[files]]
