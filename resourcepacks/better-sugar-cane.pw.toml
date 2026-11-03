@@ -1,13 +1,13 @@
 name = "Ray's Better Sugarcane"
-filename = "Ray's Better Sugarcanezip v1.6.4.zip"
+filename = "Ray's Better Sugarcanezip v1.3.zip"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/TpNvnvBO/versions/KkYKz1oJ/Ray%27s%20Better%20Sugarcanezip%20v1.6.4.zip"
+url = "https://cdn.modrinth.com/data/TpNvnvBO/versions/FEhyDqos/Ray%27s%20Better%20Sugarcanezip%20v1.3.zip"
 hash-format = "sha512"
-hash = "37a5de2d97fe61f7b27a7b337f02d8a974eadee340400dad4a6ab9ca46cb1c079578c911a82e19c935e7a723e8b768ebdf4d25f3b5c224d590f33f4b191f4674"
+hash = "6623ab0a09a0ce1eddbb1b706d26acdd778368055f86c945e2680b40f9c5bfea7e2c32c26fec36c14bd82a5bfca1f79a66941e32d01f870565ad86b1730ae09b"
 
 [update]
 [update.modrinth]
 mod-id = "TpNvnvBO"
-version = "KkYKz1oJ"
+version = "FEhyDqos"
