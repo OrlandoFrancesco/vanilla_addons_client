@@ -95,11 +95,6 @@ hash = "83183f0765a7509966ca124b615e53c182c22b26a66e204b5cda7cba01d0d906"
 metafile = true
 
 [[files]]
-file = "mods/tiny-pickup-animation.pw.toml"
-hash = "e4ddfedd24a96981b7f5ba14f5c4f548bded3744727519a19e17de559c174c2e"
-metafile = true
-
-[[files]]
 file = "mods/wavey-capes.pw.toml"
 hash = "95637027d29d45d1e3e3e1ceb231236d2cb1414c161b032bd09ca52e1b37c1c5"
 metafile = true
